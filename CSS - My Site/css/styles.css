@@ -1,0 +1,130 @@
+body {
+  margin: 0;
+  text-align: center;
+font-family: 'Josefin Sans', sans-serif;
+font-size: 19px;
+background-color: #97EBF4;
+
+}
+.skill-row{
+  position: relative;
+  height: 560px;
+}
+.top-content{
+  position: relative;
+  top:60px;
+
+}
+
+.top_container {
+  background-color: #C9F6FF;
+  padding-top: 100px;
+  height: 550px;
+}
+.car{
+  position: relative;
+  top: 50px;
+  height: 350px;
+  width: 450px;
+  /*left: 30px;*/
+}
+.middle-container {
+  background-color: #97EBF4;
+
+
+}
+
+.profile{
+  height: 200px;
+  position: relative;
+  top:20px;
+}
+
+/*.hello{
+  position: relative;
+  top: 20px;
+}*/
+
+.bottom-container {
+height:300px;
+  background-color: #65DDEF;
+}
+.skills{
+  background-color: #7AE5F5;
+  position: relative;
+  top: 15px
+}
+.sunrays{
+  height: 130px;
+  width: 130px;
+  position: absolute;
+  top:15px;
+   right: 45%;
+}
+.skills-h2{
+  position:relative;
+  top: 20px;
+  margin-bottom: 50px;
+}
+.dp{
+  position: absolute;
+  top: 30px;
+ right: 46%;
+  width: 100px;
+  height: 100px;
+}
+hr{
+  margin: 0;
+}
+
+.bottom-h2{
+  position: relative;
+  top:30px;
+}
+.bottom-content{
+  position: relative;
+  top: 30px;
+}
+.video-editing-pic{
+  height: 150px;
+  width: 150px;
+
+}
+.writing{
+  height: 150px;
+  width: 150px;
+}
+.contact-platforms{
+  position: relative;
+  top:30px;
+
+}
+/*.top_container:hover {
+  background-color: #F9DED7;
+}*/
+.cloud {
+  position: absolute;
+  top:60px;
+  height: 120px;
+  width: 160px;
+  left: 23%;
+}
+
+.top-cloud {
+  height: 120px;
+  width: 160px;
+  position: absolute;
+  left: 63%;
+  top: 60px;
+}
+a{
+margin: 3px;
+}
+
+
+
+h1 {
+  margin: 0 auto 0 auto;
+  font-size: 55px;
+  font-family: 'Sacramento', cursive;
+}
